@@ -30,14 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM IS AN API to the webpage. An interface between code and the structure of page.
+
 2. What is an event?
+
+Event is an execution of code. 
 
 3. What is an event listener?
 
+An event listener executes a predetermined code when and event has been initiated through Javascript. 
+
 4. Why would we convert a NodeList into an Array?
+
+Converting a NodeList into an array makes it easier to handle data. 
 
 5. What is a component?
 
+A Component is an easy way to build the structure of a Web Site without repeating multiple lines of code. 
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
